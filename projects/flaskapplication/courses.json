@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Python for Data Science and Machine Learning Bootcamp",
+    "author": "UDEMY//Jose Portilla",
+    "free": false,
+    "overview": "Embark on your journey to becoming a Data Scientist with our comprehensive Python-based course! Learn to analyze data, craft stunning visualizations, and wield powerful machine learning algorithms.Whether you're a programming novice or an experienced developer transitioning to Data Science, this course caters to all skill levels. Offering content equivalent to other Data Science bootcamps costing thousands, our course provides over 100 HD video lectures and detailed code notebooks for each session, making it one of Udemy's most comprehensive offerings. Our course doesn't stop there. Dive into advanced topics such as using Python for Data Science and Machine Learning, Spark for Big Data Analysis, implementing various Machine Learning Algorithms, and mastering tools like NumPy, Pandas, Matplotlib, Seaborn, Plotly, and SciKit-Learn.",
+    "img": "https://img-c.udemycdn.com/course/750x422/903744_8eb2.jpg",
+    "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+  },
+  {
+    "title": "Machine Learning Scientist with Python",
+    "author": "Data Camp Instructors",
+    "free": false,
+    "overview": "Master the essential Python skills to land a job as a machine learning scientist! With this track, you'll gain a comprehensive introduction to machine learning in Python. You’ll augment your existing Python programming skill set with the tools needed to perform supervised, unsupervised, and deep learning. You'll learn how to process data for features, train your models, assess performance, and tune parameters for better performance. This track also covers topics including tree-based machine learning models, cluster analysis, preprocessing for machine learning, and more. By the time you finish, you’ll have the confidence to use Python for machine learning, working with real data sets, linear classifiers, gradient boosting, and more. In the process, you'll get an introduction to natural language processing, image processing, and popular Python machine learning packages such as scikit-learn, Spark, and Keras.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQfMFgDqFWfwCZCoay6whXh1szbAn1nyw-A&usqp=CAU",
+    "url": "https://www.datacamp.com/tracks/machine-learning-scientist-with-python"
+  },
+  {
+    "title": "SQL for Data Science",
+    "author": "Coursera//Sadie St. Lawrence",
+    "free": false,
+    "overview": "This course serves as your gateway to mastering the fundamentals of SQL and data manipulation, enabling you to analyze data for impactful insights. Tailored for beginners with no prior SQL knowledge, the course progresses from foundational principles to crafting both simple and intricate queries. You'll delve into diverse data types, employing techniques to refine and narrow down your results. Building on these skills, you'll create tables, manipulate data, explore common operators, and employ case statements. The curriculum encompasses essential concepts like data governance and profiling, offering practical programming assignments to reinforce your learning. Throughout, you'll decipher the structure, meaning, and relationships within source data, wielding SQL as a professional tool to shape data for targeted analysis.",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUeJqGJUtvO8kVqcZyp5311Pmn3Czj_zu71Q&usqp=CAU",
+    "url": "https://www.coursera.org/learn/sql-for-data-science"
+  },
+  {
+    "title": "CS 50: Introduction to Computer Science",
+    "author": "EDX//David J. Malan",
+    "free": true,
+    "overview": "CS50x, Harvard University's gateway to the intellectual realms of computer science and programming artistry, caters to both majors and non-majors, regardless of prior programming exposure. Instructed by David J. Malan, this entry-level course instills algorithmic thinking and efficient problem-solving techniques. Encompassing vital topics like abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development, CS50x spans languages such as C, Python, SQL, JavaScript, CSS, and HTML. Problem sets draw inspiration from real-world domains like biology, cryptography, finance, forensics, and gaming. The on-campus counterpart, CS50, stands as Harvard's largest course. By enrolling in CS50x, you gain a comprehensive grasp of computer science and programming principles, cultivating skills in algorithmic thought and efficient problem resolution. The curriculum covers crucial concepts, including abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development, utilizing languages like C, Python, SQL, JavaScript, CSS, and HTML. The course's problem sets mirror real-world applications in domains like biology, cryptography, finance, forensics, and gaming. Beyond skill acquisition, CS50x offers engagement with a vibrant community of learners, fostering collaboration and knowledge exchange among individuals of varied experience levels. Cap off your journey by developing and presenting a final programming project to your peers, solidifying your understanding and skills in this dynamic field.",
+    "img": "https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png",
+    "url": "https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science"
+  },
+  {
+    "title": "Data Visualization with D3",
+    "author": "FreeCodeCamp",
+    "free": true,
+    "overview": "Data is all around us, but it doesn't mean much without shape or context. In the Data Visualization Certification, you'll build charts, graphs, and maps to present different types of data with the D3.js library. You'll also learn about JSON (JavaScript Object Notation), and how to work with data online using an API (Application Programming Interface).",
+    "img": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/70def53d0fb4.jpg",
+    "url": "https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3"
+  },
+  {
+    "title": "Web Application and Software Architecture 101",
+    "author": "Shivang Sarawagi",
+    "free": false,
+    "overview": "This course is a 101 on web application and software architecture. It walks you step by step through the different components and concepts involved in designing the architecture of a web application. You'll learn about various architectural styles such as the client-server, peer to peer decentralized architecture, microservices, the fundamentals of data flow in a web application, the different layers that are involved, concepts like scalability and high availability, and much more. In this course, we'll also go through the techniques of picking the right architecture and the technology stack to implement our use case. I'll walk you through different use cases which will help you gain an insight into what technology and architecture best fit a certain use case when writing a web application. You’ll come to understand the technology trade-offs involved.",
+    "img": "https://www.educative.io/cdn-cgi/image/f=auto,fit=cover,w=600/v2api/collection/6064040858091520/6411938009448448/image/6389694217584640",
+    "url": "https://www.educative.io/courses/web-application-software-architecture-101"
+  },
+  {
+    "title": "An Introduction to Statistical Learning",
+    "author": "Springer/Gareth James",
+    "free": true,
+    "overview": "Statistical learning, a dynamic field at the intersection of statistics, computer science, and machine learning, provides powerful tools for modeling and deciphering intricate datasets. As the era of 'Big Data' unfolds, this discipline gains prominence in scientific domains, marketing, finance, and various business sectors, driving a surge in demand for individuals skilled in statistical learning. This book, 'An Introduction to Statistical Learning' (ISL), fills a crucial niche by delivering a comprehensive yet less technical exploration of key methods. While its predecessor, 'The Elements of Statistical Learning' (ESL), caters to those with advanced mathematical training, ISL targets advanced undergraduates, master's students in statistics or related fields, and professionals seeking to apply statistical learning tools to data analysis. Covering essential topics like the lasso, sparse regression, classification trees, boosting, and support vector machines, ISL places a greater emphasis on method applications, accompanied by hands-on labs utilizing the R statistical software package. With its accessibility and practical focus, ISL serves as an ideal textbook for courses spanning one or two semesters, offering valuable insights into the implementation of statistical learning methods for diverse datasets.",
+    "img": "https://flowingdata.com/wp-content/uploads/2022/06/intro-to-stat-learning.png",
+    "url": "https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf"
+  },
+  {
+    "title": "Tableau 2022 A-Z: Hands-On Tableau Training for Data Science",
+    "author": "UDEMY//Kiril Eremenko",
+    "free": true,
+    "overview": "Master the art of data visualization with Tableau 2022, empowering yourself or decision-makers to uncover valuable insights into data patterns, from customer purchasing behaviors to sales trends and production bottlenecks. This comprehensive course covers all Tableau features, enabling you to effortlessly explore, manipulate, prepare, and present data in a visually stunning manner. Whether you are a beginner or an experienced user, each module is independent, allowing flexibility in your learning journey. With hands-on exercises using diverse datasets, you'll immediately apply your knowledge in every section. Stay ahead of the competition by accessing updated content with each Tableau release, refining your skills in data analysis and visualization. The course commences with Tableau basics, ensuring even novices navigate the software with ease. You'll delve into working with data extracts, timeseries, aggregations, and granularity to identify trends and make accurate forecasts. Learn to create an array of visualizations, including charts, maps, scatterplots, and interactive dashboards, tailored to each project's needs. Understand the nuances of joining or blending data from multiple sources for comprehensive information presentation. Explore advanced features in Tableau 10 for data preparation, covering table calculations, treemap charts, and storylines. Upon completion, you'll emerge as a highly proficient Tableau user, equipped with data scientist skills to analyze and visualize complex questions effortlessly. Whether dealing with scientific data or forecasting buying trends for profit optimization, you'll be adept at collecting, examining, and presenting data for any purpose.",
+    "img": "https://img-c.udemycdn.com/course/750x422/937678_abd2_3.jpg",
+    "url": "https://www.udemy.com/course/tableau10/"
+  },
+
+  {
+    "title": "Database Engineer Professional Certificate",
+    "author": "Coursera/Meta Staff",
+    "free": false,
+    "overview": "Embark on a comprehensive journey into the realm of database engineering with Meta's industry-recognized experts, mastering crucial skills in creating, managing, and manipulating databases, along with proficiency in SQL, Python, and Django. This program, tailored for beginners and experienced individuals alike, covers core and advanced techniques, MySQL database management, Python syntax, and preparation for technical interviews. The applied learning projects provide hands-on experience, demonstrating expertise in database normalization, SQL automation, Python application development, real-world data modeling, and creating MySQL database solutions. Delve into the heart of database engineering and emerge ready to tackle challenges in this dynamic field. Please note that third-party trademarks are the property of their respective owners, and Coursera's use of such intellectual property does not imply any relationship, sponsorship, or endorsement.",
+    "img": "https://images.credly.com/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png",
+    "url": "https://www.coursera.org/professional-certificates/meta-database-engineer"
+  },
+  {
+    "title": "AWS Certified Cloud Practitioner",
+    "author": "Neal Davis",
+    "free": false,
+    "overview": "We teach you cloud computing from basic concepts right through to some more advanced topics with lots of guided hands-on lessons so you can learn AWS by doing. Absolutely no prior knowledge or experience is necessary. Our courses are suitable for those from technical and non-technical backgrounds. This foundational level training is ideal for those who are new to cloud computing and Amazon Web Services (AWS). The AWS Cloud Practitioner certification training courses are suitable for both technical and non-technical staff who are working in companies that currently use AWS or are planning to use AWS. Whether you’re directly involved with building and supporting cloud applications, or working in managerial, sales, marketing, or project management roles, our AWS Cloud Practitioner training will help you understand AWS at a high level and prepare you for the CLF-C02 exam. No background knowledge or technical expertise is required to undertake this AWS Cloud Practitioner course as everything is fully explained.",
+    "img": "https://img-c.udemycdn.com/course/750x422/2059853_64bd_21.jpg",
+    "url": "https://digitalcloud.training/aws-certified-cloud-practitioner/"
+  }
+]
