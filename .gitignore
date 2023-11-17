@@ -2,7 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+#uneccessary information + api keys
+.DS_Store
 projects/Google-Search-Api-Flask-App/website/api_keys.py
+projects/.DS_Store
+
+
 # C extensions
 *.so
 
