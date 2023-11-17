@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h1 class="pt-5 pb-2">Results</h1>
+    <div class="container-fluid mt-5" style="display: grid; grid-gap: 10px; grid-template-columns: 1fr 1fr">
+        {% for result in results %}
+        <div class="card mb-3">
+            <div class="row g-0">
+                <div class="card-body">
+                    <h5 class="card-title"><td>{{ result.title }}</td></h5>
+                    <p class="card-text">{{ result.snippet }}</p>
+                    <p class="card-text"><b>Description:</b> {{ result.description }}</p>
+                    <a class="card-text btn btn-sm btn-primary" href="{{ result.url }}" target="_blank" role="button">{{result.url}}</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+{% endblock %}
