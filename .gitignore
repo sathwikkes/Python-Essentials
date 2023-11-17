@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+projects/Google-Search-Api-Flask-App/website/api_keys.py
 # C extensions
 *.so
 
