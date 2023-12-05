@@ -5,3 +5,6 @@ The platform boasts a comprehensive course catalog featuring titles, images, aut
 ### Google Search Engine Integration with Flask Web App
 Harness the power of Google's search technology seamlessly integrated into a Flask web application. Eliminate the need to implement search functionality from scratch and gain the flexibility to customize search results. Users input a search term, and the Google Search Engine API fetches active records, showcasing details like title, description, snippet, and URL on the website. The step-by-step project development includes building a model for result storage, creating an intuitive layout design, and implementing efficient search functionality.
 ![Sath's Quick Search Engine](Google-Search-Api-Flask-App/example.png)
+
+### Using Brightness as a Predictor of Toxicity in Poison Frogs
+Exploring how to use gradient boosting machine learning models to predict the toxicity levels of poison frogs based on their brightness. Poison frogs are known for their vivid colors and patterns, which warn predators of their danger. A study in The American Naturalist found that the color and brightness of these frogs are reliable indicators of their toxicity levels. I used pandas to load and clean the data, seaborn and Matplotlib to visualize it, and XGBoost to train and optimize a model. Finally, I saved the model using ONNX.
