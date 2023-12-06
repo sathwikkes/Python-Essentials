@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+projects/Speech-Recognition/data
 #uneccessary information + api keys
 .DS_Store
 projects/Google-Search-Api-Flask-App/website/api_keys.py
